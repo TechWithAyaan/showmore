@@ -1,0 +1,14 @@
+.show{
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.showa{
+    display: none;
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.text{
+    display: none;
+}
